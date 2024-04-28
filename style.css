@@ -314,6 +314,7 @@ section.projects .flex{
 
 .about-content h2{
     font-size: 55px;
+    
 }
 
 .about-content h3{
@@ -394,7 +395,30 @@ section.projects .flex{
             height: 340px;
         }
             
+        .about-content h2{
+            font-size: 48px;
+            margin: 8px;
+        }
+
+        .about-content h3{
+            font-size: 27px;
+            margin: 8px;
+        }
+
+        .about-content p{
+            font-size: 18px;
+            margin: 5px;
+            margin-top: -10px;
+            height: 60px;
+        }
+
+        .about-content a{
+            color: #fff;
+        }
+        }
 
 
 
-}
+
+
+
